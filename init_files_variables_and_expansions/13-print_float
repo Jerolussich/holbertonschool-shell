@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=printf "%f\n"
+echo NUM= printf "%f\n"
